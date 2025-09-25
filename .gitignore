@@ -1,0 +1,36 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+.gradle/
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
+
+# IDE specific files (IntelliJ IDEA, VS Code, etc. - remove if not using)
+.idea/
+*.iml
+.vscode/
+
+# Spring Boot specific files
+# Embedded Tomcat related files
+hs_err_pid*
+
+# Other common exclusions
+*.jar
+*.war
+*.ear
+*.zip
+*.rar
+*.7z
